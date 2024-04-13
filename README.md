@@ -24,4 +24,4 @@ You can start the script either by specifying the path directly as an argument o
 #### Syntax
 
 ```bash
-./iso_converter.sh [path_to_directory_or_file]
+./mkiso.sh [path_to_directory_or_file]
